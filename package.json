@@ -1,11 +1,13 @@
 {
+  "homepage": "https://github.com/ateendra24/facebook_login_page_design",
   "name": "fb-login-page",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "vite",
-    "build": "vite build"
+    "build": "vite build",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
